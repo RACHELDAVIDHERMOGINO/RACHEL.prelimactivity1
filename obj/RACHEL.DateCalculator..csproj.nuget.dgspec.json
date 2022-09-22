@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pc 5\\source\\repos\\RACHEL.prelimacitivity1\\RACHEL.DateCalculator\\RACHEL.DateCalculator..csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pc 5\\source\\repos\\RACHEL.prelimacitivity1\\RACHEL.DateCalculator\\RACHEL.DateCalculator..csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc 5\\source\\repos\\RACHEL.prelimacitivity1\\RACHEL.DateCalculator\\RACHEL.DateCalculator..csproj",
+        "projectName": "RACHEL.DateCalculator.",
+        "projectPath": "C:\\Users\\pc 5\\source\\repos\\RACHEL.prelimacitivity1\\RACHEL.DateCalculator\\RACHEL.DateCalculator..csproj",
+        "packagesPath": "C:\\Users\\pc 5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc 5\\source\\repos\\RACHEL.prelimacitivity1\\RACHEL.DateCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pc 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
